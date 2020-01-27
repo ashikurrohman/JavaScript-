@@ -6,10 +6,17 @@ This Represotory Create for Practicing perpose.
 In This tutorial you will learn : 
 
 1: Variables
+
 2: Operators
+
 3: Data Types
+
 4: Statements
+
 5: Loop
+
 6: Functions
+
 7: Array
+
 8: Object Oriented (Looks another Folder)
