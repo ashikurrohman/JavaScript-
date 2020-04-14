@@ -9,7 +9,7 @@ In This tutorial you will learn :
 
 2: Operators
 
-<h1 style="color:blue;">3: Data Types</h1>
+3: Data Types
 
 4: Statements
 
