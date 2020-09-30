@@ -25,8 +25,10 @@ switch(today) {
     case 5:
         console.log("Friday")
         break
-    default:
+    case 6:
         console.log("Saturday")
+    default:
+        console.log("Not a valid Number")
     
 }
 
